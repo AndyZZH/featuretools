@@ -13,8 +13,17 @@
 [![PyPI version](https://badge.fury.io/py/featuretools.svg?maxAge=2592000)](https://badge.fury.io/py/featuretools)
 [![Anaconda-Server Badge](https://anaconda.org/featuretools/featuretools/badges/version.svg)](https://anaconda.org/featuretools/featuretools)
 
-[Featuretools](https://www.featuretools.com) is a python library for automated feature engineering. See the [documentation](https://docs.featuretools.com) for more information.
+[Featuretools](https://www.featuretools.com) is a python library for automated feature engineering. It provides a machine learning feature matrix that transformed from a temporal and relational data set. See the [documentation](https://docs.featuretools.com) for more information.
 
+There are five main benefits of Featuretools:
+
+Up to 10x reduction in development time
+Better predictive performance
+Interpretable features with real-world significance
+Fits into existing machine learning pipelines
+Ensures data is valid in time-series problems
+
+Automated feature engineering improves the way machines are learned. It allows people to develop better predictive models in less time than traditional methods.
 
 
 ## Installation
